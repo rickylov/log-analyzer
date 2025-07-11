@@ -70,6 +70,8 @@ python3 database.py
 
 Assicurati che la configurazione in `db_config.py` sia corretta prima.
 
+## IMPORTANTE, creare una cartella "output" per l'indirizzamento dei file pdf e png
+
 ## 4. Esecuzione del progetto
 
 Per avviare l'analisi:
