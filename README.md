@@ -1,4 +1,4 @@
-# Progetto Lovato – Analisi Log con MySQL
+# Progetto Analisi Log con MySQL
 
 Questo progetto sviluppato in Python consente di analizzare file di log, salvarne i risultati in un database MySQL e generare report automatici.
 
